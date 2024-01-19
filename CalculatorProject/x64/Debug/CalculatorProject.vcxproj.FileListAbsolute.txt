@@ -1,6 +1,0 @@
-C:\Users\goodo\OneDrive\Documents\GitHub\Calculator\CalculatorProject\x64\Debug\CalculatorProject.vcxproj.AssemblyReference.cache
-C:\Users\goodo\OneDrive\Documents\GitHub\Calculator\CalculatorProject\x64\Debug\CalculatorProject.BasicCalcForm.resources
-C:\Users\goodo\OneDrive\Documents\GitHub\Calculator\CalculatorProject\x64\Debug\CalculatorProject.MenuForm.resources
-C:\Users\goodo\OneDrive\Documents\GitHub\Calculator\CalculatorProject\x64\Debug\CalculatorProject.ScientificCalcForm.resources
-C:\Users\goodo\OneDrive\Documents\GitHub\Calculator\CalculatorProject\x64\Debug\CalculatorProject.vcxproj.GenerateResource.cache
-C:\Users\goodo\OneDrive\Documents\GitHub\Calculator\CalculatorProject\x64\Debug\CalculatorProject.exe
