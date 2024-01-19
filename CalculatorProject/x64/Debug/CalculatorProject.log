@@ -1,0 +1,12 @@
+﻿  BasicCalc.cpp
+  BasicCalcForm.cpp
+  Calculator.cpp
+  MenuForm.cpp
+  ScientificCalc.cpp
+  ScientificCalc.h
+  ScientificCalcForm.cpp
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Generating Code...
+  BasicCalc.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+x64\Debug\ScientificCalc.obj : warning LNK4042: object specified more than once; extras ignored
+  CalculatorProject.vcxproj -> C:\Users\goodo\OneDrive\Documents\GitHub\Calculator\CalculatorProject\x64\Debug\CalculatorProject.exe
