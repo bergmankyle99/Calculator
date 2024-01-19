@@ -1,0 +1,5 @@
+C:\Users\goodo\OneDrive - Thompson Rivers University\School\Year3\COMP_3141\Project\Part 2\CalculatorProject\Debug\CalculatorProject.BasicCalcForm.resources
+C:\Users\goodo\OneDrive - Thompson Rivers University\School\Year3\COMP_3141\Project\Part 2\CalculatorProject\Debug\CalculatorProject.MenuForm.resources
+C:\Users\goodo\OneDrive - Thompson Rivers University\School\Year3\COMP_3141\Project\Part 2\CalculatorProject\Debug\CalculatorProject.ScientificCalcForm.resources
+C:\Users\goodo\OneDrive - Thompson Rivers University\School\Year3\COMP_3141\Project\Part 2\CalculatorProject\Debug\CalculatorProject.vcxproj.GenerateResource.cache
+C:\Users\goodo\OneDrive - Thompson Rivers University\School\Year3\COMP_3141\Project\Part 2\CalculatorProject\Debug\CalculatorProject.exe

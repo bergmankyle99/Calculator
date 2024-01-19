@@ -1,0 +1,7 @@
+﻿  BasicCalcForm.cpp
+  MenuForm.cpp
+  ScientificCalcForm.cpp
+  Generating Code...
+  BasicCalc.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+x64\Debug\ScientificCalc.obj : warning LNK4042: object specified more than once; extras ignored
+  CalculatorProject.vcxproj -> C:\Users\bergm\OneDrive - Thompson Rivers University\School\Year3\COMP_3141\Project\Phase2\CalculatorProject\x64\Debug\CalculatorProject.exe
