@@ -1,3 +1,0 @@
-CalculatorProject/Debug
-CalculatorProject/Release
-CalculatorProject/x64
